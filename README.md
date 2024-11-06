@@ -1,4 +1,10 @@
+## Hi,, I'm Vivin
+
+### My Activity Status
 [![Vivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsapr)](https://github.com/vinsapr/github-readme-stats)
+
+### My Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsapr&langs_count=8)
 
 <!--
 **vinsapr/vinsapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
