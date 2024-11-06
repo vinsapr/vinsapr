@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Vivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsapr)](https://github.com/vinsapr/github-readme-stats)
 
 <!--
