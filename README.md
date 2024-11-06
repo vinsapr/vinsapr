@@ -1,10 +1,12 @@
-## Hi,, I'm Vivin
+## Hi there, I'm Vivin 👋
 
 ### My Activity Status
-[![Vivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsapr)](https://github.com/vinsapr/github-readme-stats)
+![Vivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsapr&show_icons=true&theme=radical)
 
-### My Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsapr&langs_count=8)
+### My Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsapr&langs_count=8&theme=radical)
 
 <!--
 **vinsapr/vinsapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
